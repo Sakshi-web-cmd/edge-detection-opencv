@@ -25,13 +25,13 @@ This project demonstrates edge detection in images and real-time video using Pyt
 ```bash
    pip install opencv-python
 ```
- To --Run Real-Time Script
+ To Run Real-Time Script
  
 ```bash
    python edge-detection-realtime.py
 ```
 
-To--Run Non-Real-Time Script
+To Run Non-Real-Time Script
 ```bash
    python non-realtime.py
 ```
