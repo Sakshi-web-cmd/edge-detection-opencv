@@ -21,7 +21,7 @@ This project demonstrates edge detection in images and real-time video using Pyt
 
 ##  How to Run
 
-### Real-Time
+
 ```bash
    pip install opencv-python
 ```
