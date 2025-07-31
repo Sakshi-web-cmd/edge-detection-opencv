@@ -31,8 +31,8 @@ To Run Non-Real-Time Script
 ```
 ##  Demo Videos
 
-- Real-time Output*: [Watch Video](https://drive.google.com/file/d/1wkcVoK0ojZT2wVbQIzEQCCHyR4BsHJbg/view?usp=drive_link)
-- Non-real-time Output*: [Watch Video](https://drive.google.com/file/d/1RUnu4Xs0E-xzhRwL6YAkL1Hl4ozOG4-0/view?usp=drive_link)
+- Real-time Output: [Watch Video](https://drive.google.com/file/d/1wkcVoK0ojZT2wVbQIzEQCCHyR4BsHJbg/view?usp=drive_link)
+- Non-real-time Output: [Watch Video](https://drive.google.com/file/d/1RUnu4Xs0E-xzhRwL6YAkL1Hl4ozOG4-0/view?usp=drive_link)
 
 
 
