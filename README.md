@@ -5,7 +5,7 @@ This project demonstrates edge detection in images and real-time video using Pyt
 ## 🚀 Technologies Used
 - Python 
 - OpenCV (cv2) 
-- Google Colab / Jupyter / VS Code (for development)
+- VS Code (for development)
 - Webcam (for real-time demo)
 
 ## Project Files
