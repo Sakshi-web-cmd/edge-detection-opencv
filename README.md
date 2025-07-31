@@ -12,12 +12,6 @@ This project demonstrates edge detection in images and real-time video using Pyt
 
 - edge-detection-realtime.py - Real-time edge detection using webcam.
 - non-realtime.py – Edge detection on a static image.
-  
-##  Demo Videos
-
-- Real-time Output*: [Watch Video](https://drive.google.com/file/d/1wkcVoK0ojZT2wVbQIzEQCCHyR4BsHJbg/view?usp=drive_link)
-- Non-real-time Output*: [Watch Video](https://drive.google.com/file/d/1RUnu4Xs0E-xzhRwL6YAkL1Hl4ozOG4-0/view?usp=drive_link)
-
 
 ##  How to Run
 
@@ -35,6 +29,10 @@ To Run Non-Real-Time Script
 ```bash
    python non-realtime.py
 ```
+##  Demo Videos
+
+- Real-time Output*: [Watch Video](https://drive.google.com/file/d/1wkcVoK0ojZT2wVbQIzEQCCHyR4BsHJbg/view?usp=drive_link)
+- Non-real-time Output*: [Watch Video](https://drive.google.com/file/d/1RUnu4Xs0E-xzhRwL6YAkL1Hl4ozOG4-0/view?usp=drive_link)
 
 
 
